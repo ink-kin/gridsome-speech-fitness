@@ -1,42 +1,13 @@
-<div align="center">
+# Фитнес речи
 
-<a href="https://www.jammeryhq.com" title="JammeryHQ" target="_blank">
+# Формирование Культуры Публичных Выступлений
 
-  <img src="https://jammeryhq.com/jammeryhq.png" width="128" />
-  
-</a>
+- фитнес слова
+- фитнес речи
+- фитнес подачи
 
-<p>
-Fast-track your JAMstack development & learning
-</p>
-</div>
+# Манифест
 
-<hr />
+Манифест Фитнеса речи был написан, чтобы просить о поддержке в разработке Программы Обучения для Публичных Выступлений. Часть текста была взята из книг и текстов Публичных Выступлений Преподавателей Техники Речи, Мастерства, Слова. Чтобы отметить развитие Культуры Публичных Выступлений Манифест будет меняться; с тех пор, как Конвенция будет подписана многими Преподавателями Публичных Выступлений, представляется наилучшим оставить его неизменным. С тех пор как мы узнали о распространенных неверных толкованиях определенных понятий - Манифест стал известным местом распространенным толкованием верных понятий.
 
-# About this starter
-
-Gridsome starter based on the Liebling theme for Ghost. Content is added via markdown, while Tailwind CSS is used for the layout/styling.
-
-## Key features
-
-* Built with Tailwind CSS
-* Responsive 
-* Dark Mode
-* Mega Menu
-* Fulltext search
-* Author Pages
-* Custom Image Processor 
-* Pagination
-* Syntax Highlighting via PrismJS
-
-## Installation
-
-Run the following command to create a new gridsome project 
-
-```
-gridsome create my-blog https://github.com/jammeryhq/gridsome-starter-liebling
-```
-
-## Credits
-
-This starter is based on [Ghost Liebling](https://github.com/eddiesigner/liebling).
+Проект Фитнес речи — часть движения за свободные Программы Обучения для Публичных Выступлений. Проект Фитнес речи — выступает за свободу программ Преподавателей Техники Речи, Мастерства, Слова. Ассоциировать Программу Обучения для Публичных Выступлений с проектом и Манифестом может открыто и бесплатно каждый
