@@ -1,19 +1,24 @@
 {
     "social" : [
         {
-            "name": "Facebook",
+            "name": "instagram",
+            "link": "https://www.instagram.com/speech.fitness.official/",
+            "icon": "instagram"
+        },
+        {
+            "name": "github",
+            "link": "https://github.com/organizations/speech-fitness-fun",
+            "icon": "github"
+        },
+        {
+            "name": "facebook",
             "link": "#",
             "icon": "facebook-square"
         },
         {
-            "name": "Instagram",
-            "link": "#",
-            "icon": "instagram"
-        },
-        {
-            "name": "Github",
-            "link": "#",
-            "icon": "github"
+            "name": "youtube",
+            "link": "https://www.youtube.com/channel/UCr5AzRZoWnrJy5w7CizVGvg",
+            "icon": "youtube"
         }
     ]
 }

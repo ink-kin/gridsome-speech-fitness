@@ -1,12 +1,12 @@
-// This is where project configuration and plugin options are located. 
-// Learn more: https://gridsome.org/docs/config
+// Здесь находятся параметры конфигурации проекта и плагина. 
+// Узнать больше:https://gridsome.org/docs/config
 
-// Changes here require a server restart.
-// To restart press CTRL + C in terminal and run `gridsome develop`
+// Изменения здесь требуют перезагрузки сервера.
+// Для перезапуска нажмите CTRL + C в терминале и запустите "сетку некоторых разработок"
 
 module.exports = {
-  siteName: 'Gridsome',
-  siteDescription: "An open-source framework to generate awesome pages",
+  siteName: 'SpeechFitness',
+  siteDescription: "Фитнес речи (Speech Fitness fun) Формирование Культуры Публичных Выступлений",
   plugins: [
     {
       use: 'gridsome-plugin-tailwindcss',

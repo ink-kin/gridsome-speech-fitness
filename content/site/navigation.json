@@ -1,37 +1,57 @@
 {
   "headerNavigation": [
     {
-      "name": "Home",
+      "name": "Речь",
       "link": "/",
       "external": false
     },
     {
-      "name": "About",
-      "link": "/about-us",
+      "name": "Слово",
+      "link": "#",
       "external": false
     },
     {
-      "name": "Getting started",
+      "name": "Подача",
+      "link": "#",
+      "external": false
+    },
+    {
+      "name": "Необходимые и Достаточные",
       "link": "/category/getting-started",
       "external": false
     },
     {
-      "name": "More",
-      "link": "#",
+      "name": "О нас",
+      "link": "/about-us",
       "children": [
         {
-          "name": "Theme Repository",
-          "link": "https://www.github.com/jammeryhq/gridsome-starter-liebling",
-          "external": true
+          "name": "Об организации",
+          "link": "/about-us",
+          "external": false
         },
         {
-          "name": "Gridsome Docs",
-          "link": "https://www.gridsome.org/docs",
-          "external": true
+          "name": "Преодаватели",
+          "link": "/category/teachers",
+          "external": false
+        },
+        {
+          "name": "Книги",
+          "link": "/category/books",
+          "external": false
+        },
+        {
+          "name": "Статьи",
+          "link": "/category/blogs",
+          "external": false
         },
          {
-           "name": "Internal Page ( About )",
-           "link": "/about-us",
+           "name": "Манифест",
+           "link": "/posts/manifesto/",
+           "external": false
+         },
+         {
+           "name": "Конвенция",
+           "link": "/posts/konvencziya/",
            "external": false
          }
       ]
@@ -39,19 +59,19 @@
   ],
   "footerNavigation": [
     {
-      "name": "Latest Posts",
+      "name": "Свежие публикации",
       "link": "/",
       "external" : false
     },
     {
-      "name": "Facebook",
-      "link": "https://www.facebook.com",
-      "external": true
+      "name": "Преодаватели",
+      "link": "/category/profi",
+      "external": false
     },
     {
-      "name": "Gridsome",
-      "link": "https://www.gridsome.org",
-      "external": true
+      "name": "Благодарности",
+      "link": "/category/profit",
+      "external": false
     },
     {
       "name": "RSS",

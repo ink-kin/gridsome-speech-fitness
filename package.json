@@ -1,6 +1,6 @@
 {
-  "name": "gridsome-starter-liebling",
-  "private": true,
+  "name": "gridsome-speech-fitness",
+  "private": false,
   "scripts": {
     "build": "gridsome build",
     "develop": "gridsome develop",
