@@ -1,3 +1,15 @@
+---
+title: Гимнастика чувств
+tags: voice, breathing
+category: books
+excerpt: Anxius nec ibimus utque illa circa video est fuit labores alas. Vincere ferociaarva.
+created: 2019-12-24
+image: ./images/steven-wong-LcemoNqHIxY-unsplash.jpg
+image_caption: Photo by Steven Wong on Unsplash
+author: author2
+---
+
+
 Сергей Васильевич ГИППИУС
 
 Гимнастика чувств
