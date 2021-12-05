@@ -3,7 +3,7 @@
   "private": false,
   "scripts": {
     "build": "gridsome build",
-    "develop": "gridsome develop",
+    "dev": "gridsome develop",
     "explore": "gridsome explore",
     "prod": "python3 -m http.server --directory dist/"
   },
