@@ -2,10 +2,10 @@
 title: Конвенция
 tags: речь, слово, подача
 category: Getting started
-excerpt: Манифест — это декларация о намерениях, письменное обращение или воззвание, в этом случае о том, что каждый Участник Манифеста принимает во внимание следующее ...
+excerpt: Конвенция — это Кодекс поведения участников Соглашения, Наше обещание, Наши стандарты, Примеры поведения, которое способствует созданию позитивной среды, Наши обязанности
 created: 2020-12-25
-image: ./images/menghan-zhang-gnoY8Z0umg4-unsplash.jpg
-image_caption: Photo by Menghan Zhang on Unsplash
+image: https://picsum.photos/800/1000?grayscale&blur=2&random=20
+image_caption: Кодекс поведения участников Соглашения
 author: author4
 featured: true
 ---

@@ -4,7 +4,7 @@ tags: речь, слово, подача
 category: Getting started
 excerpt: Qua opes egentes cur, et trunca carpserat tulitquemuneris foedumque patriumque pisces vices!
 created: 2021-12-05
-image: ./images/lukasz-szmigiel-jFCViYFYcus-unsplash.jpg
+image: https://picsum.photos/800/1000?grayscale&blur=2&random=7
 image_caption: Photo by Luasz Szmigiel on Unsplash
 author: author1
 featured: true

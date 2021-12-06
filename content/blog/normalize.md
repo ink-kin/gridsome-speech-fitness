@@ -4,8 +4,8 @@ tags: lifehacke
 category: blogs
 excerpt: Нормализация звука — процесс выравнивания частотных характеристик при студийной звукозаписи
 created: 2020-12-25
-image: ./images/menghan-zhang-gnoY8Z0umg4-unsplash.jpg
-image_caption: Photo by Menghan Zhang on Unsplash
+image: https://picsum.photos/800/1000?grayscale&blur=2&random=19
+image_caption: Нормализация звука — процесс выравнивания частотных характеристик при студийной звукозаписи
 author: author4
 featured: true
 istochnik: https://qastack.ru/superuser/323119/how-can-i-normalize-audio-using-ffmpeg

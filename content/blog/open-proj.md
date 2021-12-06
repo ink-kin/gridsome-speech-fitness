@@ -4,8 +4,8 @@ tags: речь, слово, подача
 category: blogs
 excerpt: Манифест — это декларация о намерениях, письменное обращение или воззвание, в этом случае о том, что каждый Участник Манифеста принимает во внимание следующее ...
 created: 2020-12-25
-image: ./images/menghan-zhang-gnoY8Z0umg4-unsplash.jpg
-image_caption: Photo by Menghan Zhang on Unsplash
+image: https://picsum.photos/800/1000?grayscale&blur=2&random=21
+image_caption: Манифест — это декларация о намерениях, письменное обращение или воззвание, в этом случае о том, что каждый Участник Манифеста принимает во внимание следующее ...
 author: author4
 featured: true
 ---

@@ -1,95 +1,104 @@
 ---
-title: Styles
-tags: tag1, tag2
-category: Design
-excerpt: Anxius nec ibimus utque illa circa video est fuit labores alas. Vincere ferociaarva.
+title: информацию о себе
+tags: речь, слово, подача
+category: Getting started
+excerpt: Ассоциировать Программу Обучения для Публичных Выступлений с проектом и Манифестом может открыто и бесплатно каждый.
 created: 2019-12-24
-image: ./images/steven-wong-LcemoNqHIxY-unsplash.jpg
+image: https://picsum.photos/800/1000?grayscale&blur=2&random=6
 image_caption: Photo by Steven Wong on Unsplash
-author: author3
+author: author4
 ---
 
-# Heading 1
+## Добавьте открыто свою программу и информацию о себе!
 
-## Heading 2
+Ассоциировать Программу Обучения для Публичных Выступлений с проектом и Манифестом может открыто и бесплатно каждый.
 
-### Heading 3
+## Пример цитаты Преподавателя или отзыва
 
-#### Heading 4
+> На первом занятии Преодаватель хотел обострить до предела нервную, сенсорную природу каждого студента.
+> Разбутить и объяснить, что каждый человек должен «слышать» и чувствовать душу людей, предметов и слов.
+> Каждый должен открыть все свои поры миру примерно так как это делает преподаватель; очень близком по пониманию творящего духа к тому, что исповедовал и исповедывает Преодаватель
+> Внимать каждый взгляд, полет мысли, страхи, а дальние и лучшие мечты помочь привесть в воспоминания.
+> В данном случае это не условная метафора, это глубинная суть творческого процесса рекламного агентства. И уже не только мнение г-на Преодавателя
+> Вот почему он называл систему целой культурой, на которой надо воспитываться долгие годы.
+> Ее нельзя вызубрить. Но ее можно усвоить, впитать в себя, так чтобы она вошла в плоть и кровь, стала второй натурой слилась органически однажды и навсегда.
+> И переродила его для ежедневной работы.
 
-##### Heading 5
+## Пример описания программы
 
-###### Heading 6
+1. Фитнес Речи
+2. Фитнес Слова
+3. Фитнес Подачи
+4. Принципы взаимодействия с аудиторией
 
-## Normal Text
+## Пример подробного описания программы
 
-Lorem markdownum artesque tu quidem lanigeris! Amari aliquis Ismarios,
-hospitiique nullum ab enim Pagasaea probabant armis iniuria inponi. Primus
-Aonius graves at inductas nec motu, qui pinetis. Anxius nec ibimus utque illa
-circa video est fuit labores alas. Huic per quantum undis, Themis et quamvis
-gramine missisque leonibus.
+- Фитнес Речи
+  - Артикуляция
+  - Дикция
+    - скороговорки
+    - устранение индивидуальных речевых недостатков
+    - ежедневная утренняя речевая зарятка
+  - Голос мягкий, бархатистый 
+  - Дыхание
+- Фитнес Слова
+    - Как прокачать устную речь, как письменную?
+    - Изучение информационного поля
+- Фитнес подачи
+    - Атака
+    - Защита
+    - Любовная и лирическая
+- Основы Теории Публичных выступлений
+    - Аристотель, логос, Патос, Эмос
+    - Сценарий выступления по Эйзенштейну, Чехову, Шекспиру, Куросаве, Феллини, Хичкоку, Тарковскому…
 
-## Blockquotes
+## Пример стоимости и графика занятий
 
-> Meo locum plurimus laudatos exstantibus fistula nocte Ancaeo denique montanum.
-> Dissipat nullique tenax; aut una lacessit purpureus sumptis inlaesos,
-> Polypemonis quisque blanditus. Obscenas rumpitque numerum effluxere,
-> pronusque: Mygdonidesque precantia erat potes undis. Resurgere conplet velut
-> freta miram enim, maiorque nec nec inaniter mensura et ipse artus flebam
-> gentisque solus.
+| Курс   | |      Описание      |  Стоимость |
+|----------|:--|:-------------:|------:|
+| Прослушивание |  => |   left-aligned | $1600 |
+| Удаленное занятие |  => |   online   |   $1600 |
+| Индивидуальное занятие у заказчика |  => |  right-aligned |    $1600 |
+| Индивидуальное занятие в фитнесе |  => |  right-aligned |    $1600 |
+| Индивидуальное занятие в Академии |  => |  right-aligned |    $1600 |
 
-## Ordered List
+## Теория и упражнения
 
-1. Quotiens urbis Charaxi referre
-2. Terris acti iussit extrema
-3. Vel totis Iove locum forma
-4. Esse neve illi crimen ripis et crimina
+Пример рекомендаций, упражнений, задач.
 
-## Unordered List
+```
+Упражнение на дикцию 360
 
-- Quotiens urbis Charaxi referre
-  - freta miram enim
-  - freta miram enim
-    - maiorque nec nec
-    - maiorque nec nec
-    - maiorque nec nec
-- Terris acti iussit extrema
-- Vel totis Iove locum forma
-- Esse neve illi crimen ripis et crimina
+Все согласные и все не йотированные гласные.
+Звук ррр - раскатистый считается не травматичным звуком и поэтому рекомендован в том числе и к утренним упражнениям.
 
-## Table
+Упражнение может являться индикатором чистоты и лёгкости произношения, тогда согласный звук,
+который нужно выявить индикатором, следует поставить в конце переставив ряды таким образом, 
+что бы речевой аппарат устал к его произнесению.
 
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
+бррри брррэ бррра бррро бррру бррры
+вррри врррэ вррра вррро вррру вррры
+гррри грррэ гррра гррро гррру гррры
+дррри дрррэ дррра дррро дррру дррры
+жррри жрррэ жррра жррро жррру жррры
+зррри зрррэ зррра зррро зррру зррры
+кррри крррэ кррра кррро кррру кррры
+лррри лрррэ лррра лррро лррру лррры
+мррри мрррэ мррра мррро мррру мррры
+нррри нрррэ нррра нррро нррру нррры
+пррри прррэ пррра пррро пррру пррры
+рррри ррррэ рррра рррро рррру рррры
+сррри срррэ сррра сррро сррру сррры
+тррри трррэ тррра тррро тррру тррры
+фррри фрррэ фррра фррро фррру фррры
+хррри хрррэ хррра хррро хррру хррры
+цррри црррэ цррра цррро цррру цррры
+чррри чрррэ чррра чррро чррру чррры
+шррри шрррэ шррра шррро шррру шррры
+щррри щрррэ щррра щррро щррру щррры
 
-## Codeblock
-
-Here a sample text which contains `<?php echo 'inline code'; ?>` and also code blocks.
-
-```js
-function visitor(node) {
-
-  try {
-    const alignment = node.align;
-
-    visit(node, 'tableRow', (rowNode) => {
-      rowNode.children.forEach(function (cellNode, index) {
-        cellNode.align = alignment[index]
-      });
-    });
-
-    node.align = node.align.map(function(value) {
-      return null;
-    });
-    
-  } catch (e) {
-  }
-}
 ```
 
-## Images
+## Фотографии занятий
 
-![Photo by Ingmar Hoogerhoud on Unsplash](./images/ingmar-hoogerhoud-lm91dJNPRS4-unsplash.jpg)
+![Photo by Ingmar Hoogerhoud on Unsplash](./images/startup-594090_1920.jpg)

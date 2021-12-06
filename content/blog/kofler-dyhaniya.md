@@ -2,10 +2,10 @@
 title: Искусство дыхания как основа звукоизвлечения
 tags: voice, breathing
 category: books
-excerpt: Anxius nec ibimus utque illa circa video est fuit labores alas. Vincere ferociaarva.
+excerpt: Незаменимая книга для певцов, ораторов, педагогов, адвокатов, проповедников и всех тех, кто желает обладать приятным голосом и крепким здоровьем.
 created: 2019-12-24
-image: ./images/steven-wong-LcemoNqHIxY-unsplash.jpg
-image_caption: Photo by Steven Wong on Unsplash
+image: https://picsum.photos/800/1000?grayscale&blur=2&random=17
+image_caption: Незаменимая книга для певцов, ораторов, педагогов, адвокатов, проповедников и всех тех, кто желает обладать приятным голосом и крепким здоровьем
 author: author3
 ---
 

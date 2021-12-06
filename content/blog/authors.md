@@ -2,10 +2,10 @@
 title: Авторы
 tags: teachers, profi
 category: teachers
-excerpt: Anxius nec ibimus utque illa circa video est fuit labores alas. Vincere ferociaarva.
+excerpt: Преподаватели Авторы
 created: 2021-12-04
-image: ./images/steven-wong-LcemoNqHIxY-unsplash.jpg
-image_caption: Photo by Steven Wong on Unsplash
+image: https://picsum.photos/800/1000?grayscale&blur=2&random=1
+image_caption: Преподаватели
 author: author4
 ---
 
