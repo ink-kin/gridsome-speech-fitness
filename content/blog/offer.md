@@ -3,8 +3,8 @@ title: Конвенция
 tags: речь, слово, подача
 category: Getting started
 excerpt: Конвенция — это Кодекс поведения участников Соглашения, Наше обещание, Наши стандарты, Примеры поведения, которое способствует созданию позитивной среды, Наши обязанности
-created: 2020-12-25
-image: https://picsum.photos/800/1000?grayscale&blur=2&random=20
+created: 2021-12-03
+image: ./images/spices.jpg
 image_caption: Кодекс поведения участников Соглашения
 author: author4
 featured: true

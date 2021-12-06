@@ -3,8 +3,8 @@ title: Искусство дыхания
 tags: books
 category: books
 excerpt: Искусство дыхания. Шесть простых уроков для достижения успеха, здоровья и процветания
-created: 2019-09-03
-image: https://picsum.photos/800/1000?grayscale&blur=2&random=14
+created: 1920-09-03
+image: ./images/ingmar-hoogerhoud-lm91dJNPRS4-unsplash.jpg
 image_caption: Искусство дыхания. Шесть простых уроков для достижения успеха, здоровья и процветания
 author: author4
 ---

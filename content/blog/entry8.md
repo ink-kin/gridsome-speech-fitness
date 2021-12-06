@@ -3,8 +3,8 @@ title: Основы техники речи К.С. Станиславского
 tags: books
 category: books
 excerpt: Как не бывает двух совершенно одинаковых лиц, рук, ног, так не бывает и совершенно схожих голосов. Всякий голос и манера речи отличаются целым рядом признаков от другого. Эти различия в той или иной степени помогают раскрыть и выразить характер поведения того или иного человека (образа).
-created: 2019-08-02
-image: https://picsum.photos/800/1000?grayscale&blur=2&random=13
+created: 1920-08-02
+image: ./images/josh-spires-dronenr-sQalFlXIsLs-unsplash.jpg
 image_caption: Основы техники речи К.С. Станиславского
 author: author4
 featured: true

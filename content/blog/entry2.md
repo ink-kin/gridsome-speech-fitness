@@ -2,10 +2,10 @@
 title: Утренние упражнения
 tags: речь, слово, подача
 category: Getting started
-excerpt: Qua opes egentes cur, et trunca carpserat tulitquemuneris foedumque patriumque pisces vices!
-created: 2021-12-05
-image: https://picsum.photos/800/1000?grayscale&blur=2&random=7
-image_caption: Photo by Luasz Szmigiel on Unsplash
+excerpt: Мы подобрали для вас необходимые и достаточные упражнения на каждое утро.
+created: 2021-12-07
+image: ./images/sunset.jpg
+image_caption: Мы подобрали для вас необходимые и достаточные упражнения на каждое утро.
 author: author1
 featured: true
 ---

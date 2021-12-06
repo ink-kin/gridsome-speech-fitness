@@ -3,8 +3,8 @@ title: Работа актера над собой
 tags: voice, breathing
 category: books
 excerpt: Работа над собой в творческом процессе переживания.
-created: 2019-12-24
-image: https://picsum.photos/800/1000?grayscale&blur=2&random=15
+created: 2001-12-24
+image: ./images/startup-594090_1920.jpg
 image_caption: Работа над собой в творческом процессе переживания
 author: author2
 ---

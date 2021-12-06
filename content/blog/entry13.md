@@ -3,8 +3,8 @@ title: информацию о себе
 tags: речь, слово, подача
 category: Getting started
 excerpt: Ассоциировать Программу Обучения для Публичных Выступлений с проектом и Манифестом может открыто и бесплатно каждый.
-created: 2019-12-24
-image: https://picsum.photos/800/1000?grayscale&blur=2&random=6
+created: 2021-11-24
+image: ./images/riccardo-chiarini-2VDa8bnLM8c-unsplash.jpg
 image_caption: Photo by Steven Wong on Unsplash
 author: author4
 ---

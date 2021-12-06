@@ -3,8 +3,8 @@ title: Нормализация звука
 tags: lifehacke
 category: blogs
 excerpt: Нормализация звука — процесс выравнивания частотных характеристик при студийной звукозаписи
-created: 2020-12-25
-image: https://picsum.photos/800/1000?grayscale&blur=2&random=19
+created: 2021-12-01
+image: ./images/sound-856771_1280.png
 image_caption: Нормализация звука — процесс выравнивания частотных характеристик при студийной звукозаписи
 author: author4
 featured: true

@@ -4,8 +4,8 @@ tags: books
 category: books
 excerpt: Техника в искусстве способна иной раз как-то притушить искру вдохновения у посредственного художника, но она же раздувает эту искру в великое и неугасимое пламя у подлинного мастера.
 created: 1946-10-31
-image: https://picsum.photos/800/1000?grayscale&blur=2&random=3
-image_caption: Photo by Sergio Souza on Unsplash
+image: ./images/sergio-souza-WU6K3Lmq9ok-unsplash.jpg
+image_caption: Техника в искусстве способна иной раз как-то притушить искру вдохновения у посредственного художника, но она же раздувает
 author: author4
 featured: true
 ---
