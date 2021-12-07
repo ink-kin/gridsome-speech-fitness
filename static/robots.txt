@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://speech-fitness.fun/sitemap.xml

@@ -905,13 +905,9 @@ ISBN 978-5-9614-2181-1
 
 Конец ознакомительного фрагмента.
 
-Текст предоставлен ООО «ЛитРес».
-
+Текст предоставлен [ООО «ЛитРес»](/posts/podderzhka-kompanii-lit-res/) см. N  
 Прочитайте эту книгу целиком, купив полную легальную версию
 (http://www.litres.ru/aleksandr-shumilin/tatyana-ivanova-5/karty-dengi-fitnes-klub-prakticheskoe-rukovodstvo-dlya-menedzherov-po-prodazham/)
 на ЛитРес.
 
-Безопасно оплатить книгу можно банковской картой Visa, MasterCard,
-Maestro, со счета мобильного телефона, с платежного терминала, в салоне
-МТС или Связной, через PayPal, WebMoney, Яндекс.Деньги, QIWI Кошелек,
-бонусными картами или другим удобным Вам способом.
+

@@ -3237,16 +3237,12 @@ special report (Thorogood, 1997); Project Skills (Butterworth Heinemann,
 
 Конец ознакомительного фрагмента.
 
-Текст предоставлен ООО «ЛитРес».
-
+Текст предоставлен [ООО «ЛитРес»](/posts/podderzhka-kompanii-lit-res/) см. N  
 Прочитайте эту книгу целиком, купив полную легальную версию
 (http://www.litres.ru/barri-pirson/nil-tomas/mba-v-karmane-prakticheskoe-rukovodstvo-po-razvitiu-kluchevyh-navykov-upravleniya/)
 на ЛитРес.
 
-Безопасно оплатить книгу можно банковской картой Visa, MasterCard,
-Maestro, со счета мобильного телефона, с платежного терминала, в салоне
-МТС или Связной, через PayPal, WebMoney, Яндекс.Деньги, QIWI Кошелек,
-бонусными картами или другим удобным Вам способом.
+
 
 notes
 
