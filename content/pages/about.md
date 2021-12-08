@@ -1,54 +1,157 @@
 ---
 title: About us
+tags: о нас
+category: о нас
+excerpt: Свобода присоединения к Участникам Манифеста гарантируется каждому
+created: 2021-12-06
+image: ./images/startup-594090_1920.jpg
+image_caption: Мы разделяем и Мы объединяем
+author: author1
+featured: true
 ---
 
-## Ossa narrat sortita fecerat sit conataque
+## Проект Фитнес речи — часть движения за свободные Программы Обучения для Публичных Выступлений.
 
-Lorem markdownum aptos pes, Inachidos caput corrumpere! Hanc haud quam [est
-candore](http://quisquis-in.io/ramossuperum) conpulit meriti. Vincere ferocia
-arva.
+Проект Фитнес речи — выступает за свободу программ Преподавателей Техники Речи, Мастерства, Слова.
 
-## Eleis celeberrimus loci ait falsa infelix tuoque
+Ассоциировать Программу Обучения для Публичных Выступлений с проектом и Манифестом может открыто и бесплатно каждый.
 
-Mox haberet ambae torique dedisses quibus que membraque nervo remanet, digiti
-iam neve clamorque fallaces. Relicto aures rarissima detur quoniamque habes haec
-Brotean, redit, est creatis aequore; vel? Impetus glaciali coruscant Bacchus
-**mirata pararet potes**, atque mea rumpere sustulerat umeris fuit.
+## Манифест Фитнеса речи
 
-## Facundis quid
+Цель Манифеста Фитнеса речи: формировать стандарт отрасли. см. [Манифест Фитнеса речи](/posts/manifest-fitnesa-rechi/)
 
-Venerit conveniunt per memori sed laniarat Dromas, solum tum. Undis lacteus
-infitiatur adest [acies certius](http://www.tollit-clamavit.io/) inscius, cum ad
-emittunt dextra.
+## Конвенция
 
-Fronde ait ferox medium, virginis igni sanguine micant: **inertia** ore quoque?
-Iaculi quicquid **virescere misit stirpe** Theseus Venerem! Falce taceo oves,
-idem fugit, non abiit palam quantum, fontes vinci et abiit. Deiectoque exstabant
-**Phrygiae** cepit munus tanto.
+- Конвенция — это международное соглашение
+- Конвенция — это мероприятие проводимое участниками Проекта Фитнес Речи, где официально фиксируется международное соглашение
+- Конвенция — это Кодекс поведения участников Соглашения.
 
-## Et capienda Peneia
+С Текстом Кодексом поведения участников Соглашения можно ознакомиться по [ссылке](/posts/konvencziya/).
+С Текстом Конвенции могут ознакомиться все кто так или иначе присоединился к Манифесту и сообщил нам всем об этом.
+См. ссылку Как заявить об Участнии.
+Влиять на текст Конвенции могут все и для этого свяжитесь с нами.
+Международное соглашение: Конвенция будет подписана многими Преподавателями Публичных Выступлений на мероприятии проводимом участниками Проекта Фитнес Речи.
+Международное соглашение: Конвенция будет меняться.
 
-*Haec moenia pater* signataque urget, ait quies laqueo sumitque. Misit sit
-moribunda terrae sequar longis hoc, cingebant copia cultros! Alis templi taeda
-solet suum mihi penates quae. Cecidere *deo agger infantem* indetonsusque ipsum;
-ova formasque cornu et pectora [voce oculos](http://www.tibibene.io/iter.html),
-prodis pariterque sacra finibus, Sabinae. Fugarant fuerat, famam ait toto imas
-sorte pectora, est et, procubuit sua Appenninigenae habes postquam.
+## Свобода присоединения к Участникам Манифеста
 
-## Quoque aut gurgite aliquis igneus
+Свобода присоединения к Участникам Манифеста гарантируется каждому.
 
-Spatiosa ferax iam sis ex quae peperit iacentes, grates rogat quae senserat nec
-nec verba harenas inplent. Per dum necis in in versus quin loquendi latens;
-inde. **Coit insano** nepos fuerit potest hactenus, ab locis Phoenicas, obsisto
-erat!
+## Очевидность Методики обучения
 
-> Nec uterum Aurorae petentes abstulit. Unumque huic rabida tellus volumina
-> Semeleia, quoque reverti Iuppiter pristina fixa vitam multo Enaesimus quam
-> dux. Sua **damus** decipere, ut **obortas** nomen sine vestrae vita.
+> Наш век недолог. Нас немудрено
+> 
+> Прельстить перелицованным старьем.
+> 
+> Мы верим, будто нами рождено
+> 
+> Все то, что мы от предков узнаем.
+> 
+> 
+> Цена тебе с твоим архивом грош.
+> 
+> Во мне и тени удивленья нет
+> 
+> Пред тем, что есть и было. Эту ложь
+> 
+> Плетешь ты в спешке суетливых лет.
+> 
+> (Шекспир, Сонет 123)
 
-Turbine ora sum securae, purpureae lacertis Pindumve superi: tellus liquerat
-**carinis**. Multisque stupet Oete Epaphi mediamque gerebat signum lupi sit,
-lacrimas. Tumidi fassusque hosti, deus [vixque desint
-dedit](http://hisnurus.com/putares-pars) dum et, quo non, dea [suras
-tantum](http://mactata.org/inducere.php). Unus acta capulo. In Dryope sic
-vestigia est neu ignis in **illa mirantur agilis** densior.
+Мы признаем очевидную Предвзятость Элитарности Методики обучения.
+
+Мы признаем очевидной Тему Обучения Публичным Выступлениям.
+
+Мы признаем очевидным то, что Авторские методики лишь то, что мы от предков и наших учителей, а так же коллег узнаем.
+
+
+## Что мы называем Публичным Выступлением
+
+- презентацию,
+- театральный спектакль,
+- конференцию,
+- концерт,
+- диспут телевизионный,
+- митинг,
+- медиацию.
+
+## Мы разделяем
+
+- Фитнес Речи
+  - Артикуляцию
+  - Дикцию
+    - скороговорки
+    - устранение индивидуальных речевых недостатков
+    - ежедневная речевая зарядка
+  - Тренинг голоса 
+  - Дыхание
+- Фитнес Слова
+    - Как прокачать устную речь, как письменную?
+    - Изучение информационного поля
+    - Семантическое ядро выступления
+    - Улучшении ясности текста выступления
+    - 
+- Фитнес подачи
+    - Риторика
+    - Речевая атака
+    - Защита
+    - Любовная и лирическая
+    - Психологический жест
+    - Сценическое движение
+- Основы Теории Публичных выступлений
+    - Аристотель, Логос, Патос, Эмос
+    - Сценарий выступления по Эйзенштейну, Чехову, Шекспиру, Куросаве, Феллини, Хичкоку, Тарковскому …
+    - Приактики современных ораторов
+    - Теория Продаж
+    - Теория Закупок
+- Технические средства
+    - Работа с камерой
+    - Работа с микрофоном
+    - Искусственный интерллект в обработке звука
+    - Искусственный интерллект в синтезе звука
+    - Нормализация и Компрессия
+    - Прораммные средства, что помещают рядом с текстом речи величайших писателей, поэтов и редакторов мира, где они подсказывают предложения, как улучшить бизнес прозу.
+
+
+## Мы разделяем
+
+- Действующее слово
+- Видимое слово
+
+## Мы разделяем
+
+- Арсенал инструментов артиста и актера необходимый для публичных выступлений
+- Арсенал инструментов бизнесмена и публичного бизнесмена, а значит политика, необходимый для публичных выступлений
+
+## Мы объединяем 
+
+Мы будем руководствоваться советами, вдохновленными Авторами С Большой Буквы и редакциями лучших мировых литературных ТВ, парталов, журналов и газет, в том числе. 
+Наша цель - обобщить знания о передовых методах работы в письменной форме и сделать эти знания незамедлительно доступными для прозы всем авторам в форме Открытых Текстов и даже Открытых программных продуктов.
+
+Мы объединяем Слово и Речь в Подачу и прередаём в общественное достояние в виде Открытой Программы Обучения для Публичных Выступлений.
+
+Авторы С Большой Буквы:
+- Пушкин А.С.,
+- Лермонтов М.Ю.,
+- Шукшин В.М.,
+- Высоцкий В.С.,
+- Толстой Л.Н.,
+- Достоевский Ф.П.,
+- Брайан Гарнер,
+- Дэвид Фостер Уоллес,
+- Чак Паланик,
+- Стив Пинкер,
+- Мэри Норрис,
+- Марком Твеном, Элмором Леонардом,
+- Джорджем Оруэллом, Мэтью Баттериком, Уильямом Странком, Э.Б. Уайтом, Филипом Корбеттом, Эрнестом Гауэрсом 
+- свяжитесь с нами, чтобы продолжить список.
+
+## Товарный знак
+Фитнес Речи - это Согласно российскому законодательству, обозначение (словесное, изобразительное, комбинированное или иное), «служащее для индивидуализации товаров юридических лиц или индивидуальных предпринимателей». Законом признаётся исключительное право на товарный знак, удостоверяемое свидетельством на товарный знак.
+Фитнес Речи зарегистрирован в ФИПС Российской Федерации товарных знаков.
+
+
+## Сертификация Преподавателей и результатов обучения
+
+Участники Проекта Фитнес Речи проводят Сертификацию каждого.
+Стандарты Сертификации Преподавателей и результатов обучения формируются в форме саморегуляции.
