@@ -3444,9 +3444,7 @@ PIMS, равно как и BCG, с их явным пристрастием к �
 
 Конец ознакомительного фрагмента.
 
-Текст предоставлен [ООО «ЛитРес»](/posts/podderzhka-kompanii-lit-res/) см. N  
-Прочитайте эту книгу целиком, купив полную легальную версию
-(http://www.litres.ru/brus-alstrand/genri-mincberg/zhozef-lampel/strategicheskoe-safari-ekskursiya-po-debryam-strategicheskogo-menedzhmenta/)
+Текст предоставлен [ООО «ЛитРес»](/posts/podderzhka-kompanii-lit-res/) см. N brus-alstrand/genri-mincberg/zhozef-lampel/strategicheskoe-safari-ekskursiya-po-debryam-strategicheskogo-menedzhmenta/
 на ЛитРес.
 
 

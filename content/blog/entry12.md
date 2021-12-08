@@ -905,9 +905,7 @@ ISBN 978-5-9614-2181-1
 
 Конец ознакомительного фрагмента.
 
-Текст предоставлен [ООО «ЛитРес»](/posts/podderzhka-kompanii-lit-res/) см. N  
-Прочитайте эту книгу целиком, купив полную легальную версию
-(http://www.litres.ru/aleksandr-shumilin/tatyana-ivanova-5/karty-dengi-fitnes-klub-prakticheskoe-rukovodstvo-dlya-menedzherov-po-prodazham/)
+Текст предоставлен [ООО «ЛитРес»](/posts/podderzhka-kompanii-lit-res/) см. N  /aleksandr-shumilin/tatyana-ivanova-5/karty-dengi-fitnes-klub-prakticheskoe-rukovodstvo-dlya-menedzherov-po-prodazham/
 на ЛитРес.
 
 

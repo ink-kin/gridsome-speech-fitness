@@ -1786,9 +1786,7 @@ Pennsylvania, 1981.\], показало, что, если вы делаете п
 
 Конец ознакомительного фрагмента.
 
-Текст предоставлен [ООО «ЛитРес»](/posts/podderzhka-kompanii-lit-res/) см. N  
-Прочитайте эту книгу целиком, купив полную легальную версию
-(http://www.litres.ru/dmitriy-lazarev-2/korporativnaya-prezentaciya-kak-prodat-ideu-za-10-slaydov/)
+Текст предоставлен [ООО «ЛитРес»](/posts/podderzhka-kompanii-lit-res/) см. N dmitriy-lazarev-2/korporativnaya-prezentaciya-kak-prodat-ideu-za-10-slaydov/
 на ЛитРес.
 
 

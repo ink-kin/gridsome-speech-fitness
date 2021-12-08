@@ -1703,9 +1703,7 @@ Superior Performance. New York: Free Press, 1985. (Русский перевод
 
 Конец ознакомительного фрагмента.
 
-Текст предоставлен [ООО «ЛитРес»](/posts/podderzhka-kompanii-lit-res/) см. N  
-Прочитайте эту книгу целиком, купив полную легальную версию
-(http://www.litres.ru/filip-kotler/marketing-ot-a-do-ya-80-koncepciy-kotorye-dolzhen-znat-kazhdyy-menedzher/)
+Текст предоставлен [ООО «ЛитРес»](/posts/podderzhka-kompanii-lit-res/) см. N  filip-kotler/marketing-ot-a-do-ya-80-koncepciy-kotorye-dolzhen-znat-kazhdyy-menedzher/
 на ЛитРес.
 
 

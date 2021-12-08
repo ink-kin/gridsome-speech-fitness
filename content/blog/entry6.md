@@ -3237,10 +3237,8 @@ special report (Thorogood, 1997); Project Skills (Butterworth Heinemann,
 
 Конец ознакомительного фрагмента.
 
-Текст предоставлен [ООО «ЛитРес»](/posts/podderzhka-kompanii-lit-res/) см. N  
-Прочитайте эту книгу целиком, купив полную легальную версию
-(http://www.litres.ru/barri-pirson/nil-tomas/mba-v-karmane-prakticheskoe-rukovodstvo-po-razvitiu-kluchevyh-navykov-upravleniya/)
-на ЛитРес.
+Текст предоставлен [ООО «ЛитРес»](/posts/podderzhka-kompanii-lit-res/) см. N barri-pirson/nil-tomas/mba-v-karmane-prakticheskoe-rukovodstvo-po-razvitiu-kluchevyh-navykov-upravleniya/
+ 
 
 
 
